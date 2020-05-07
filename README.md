@@ -1,2 +1,6 @@
 # hello-world
-Just my first repository
+
+Hi humans!
+
+我实在是不想说鸟语了，啊啊，算了，发泄完毕，
+我就是把开始那段话改成了上面那段话而已。
